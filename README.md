@@ -16,6 +16,7 @@
 <h3>Technologies</h3>
 <li>HTML5</li>
 <li>CSS3</li>
+<li>JavaScript</li>
 <li>Git</li>
 
 <h3>key Code</h3>
